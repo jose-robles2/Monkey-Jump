@@ -1,0 +1,5 @@
+C:\Users\18jos\Documents\Visual Studio 2019\CptS 122\0 NEW SMFL\Debug\0 NEW SMFL.exe
+C:\Users\18jos\Documents\Visual Studio 2019\CptS 122\Week 13-14\NEW PA9\Debug\0 NEW SMFL.exe
+C:\Users\18jos\Documents\Visual Studio 2019\CptS 122\Week 13-14\PA9 PROJECTS\NEW PA9\Debug\pa9.exe
+C:\Users\18jos\Documents\Visual Studio 2019\CptS 122\Week 13-14\PA9 PROJECTS\PA9\Debug\pa9.exe
+C:\Users\18jos\Documents\Visual Studio 2019\CptS 122\Week 13-14\PA9 PROJECTS\PA9 - Copy\Debug\pa9.exe
